@@ -2,22 +2,6 @@
 
 A production-ready, Hindi-speaking AI assistant featuring speech-to-text, intelligent response generation, text-to-speech, and real-time face detection capabilities.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [API Reference](#api-reference)
-- [Challenges & Solutions](#challenges--solutions)
-- [Future Improvements](#future-improvements)
-- [Demo Video](#demo-video)
-- [License](#license)
-
----
-
 ## 🎯 Overview
 
 This project demonstrates a fully functional Hindi-speaking AI assistant that integrates multiple AI components:
