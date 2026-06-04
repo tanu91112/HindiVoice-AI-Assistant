@@ -316,7 +316,7 @@ After running locally or deploying:
 ⚠️ Advanced features (emotion, voice cloning)  
 
 ### Deployment Status
-- ✅ GitHub: https://github.com/Lavi-hk/hindi-ai-assistant
+- ✅ GitHub: https://github.com/tanu91112/HindiVoice-AI-Assistant
 - ✅ Streamlit Cloud: Live (auto-deploys from main branch)
 - ✅ Docker: Ready for containerized deployment
 - ✅ Documentation: Comprehensive README, Architecture, Testing guides
