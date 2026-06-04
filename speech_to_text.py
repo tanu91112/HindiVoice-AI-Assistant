@@ -18,7 +18,7 @@ class HindiSTT:
     def __init__(self):
         """Initialize the recognizer"""
         self.recognizer = sr.Recognizer()
-        self.microphone = sr.Microphone()
+        self.microphone = None
         
     def from_audio_file(self, audio_path: str) -> Tuple[Optional[str], bool]:
         """
