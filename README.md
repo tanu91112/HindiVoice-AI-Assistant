@@ -517,10 +517,6 @@ Run the full application:
 streamlit run app.py
 ```
 
-Upload `https://hindi-ai-assistant-2hdbjl2ki8zy8vjgsyrypi.streamlit.app/` and verify the workflow.
-
----
-
 
 ## 📄 License
 
@@ -536,20 +532,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - OpenCV community
 - Streamlit team
 
----
-
-## ✅ Checklist
-
-- [x] Speech-to-Text (Hindi) ✓
-- [x] Response Generation ✓
-- [x] Text-to-Speech (Hindi) ✓
-- [x] Face Detection ✓
-- [x] Modern UI ✓
-- [x] Error Handling ✓
-- [x] Documentation ✓
-- [x] Sample Audio Files ✓
-- [ ] Demo Video (To be recorded)
-
+-
 ---
 
 
