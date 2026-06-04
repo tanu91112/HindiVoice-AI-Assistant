@@ -38,8 +38,8 @@
 
 ```powershell
 # 1. Clone repository
-git clone https://github.com/Lavi-hk/hindi-ai-assistant.git
-cd hindi-ai-assistant
+git clone https://github.com/tanu91112/HindiVoice-AI-Assistant.git
+cd HindiVoice-AI-Assistant
 
 # 2. Create virtual environment
 python -m venv venv
@@ -80,7 +80,7 @@ streamlit run app.py
 
 ### Cloud Deployment (Streamlit)
 
-1. **Push to GitHub**: Your repo is at `github.com/Lavi-hk/hindi-ai-assistant`
+1. **Push to GitHub**: Your repo is at `github.com/tanu91112/HindiVoice-AI-Assistant`
 2. **Deploy on Streamlit Cloud**:
    - Go to https://share.streamlit.io
    - Click "New app" → Connect GitHub
@@ -328,7 +328,5 @@ After running locally or deploying:
 4. Deploy to production cloud (AWS/GCP)
 
 ---
-
-**Built with ❤️ for AI Developer Assessment**  
 *Demonstrating end-to-end AI integration, clean code, and production deployment*
 
