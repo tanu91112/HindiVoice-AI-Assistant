@@ -1,4 +1,4 @@
-# Hindi AI Assistant - Project Brief
+# HindiVoice-AI-Assistant- Project Brief
 
 ## 1. Technologies/APIs Used and Why
 
