@@ -1,6 +1,6 @@
-# 🇮🇳 हिंदी AI सहायक (Hindi AI Assistant)
+# 🇮🇳 हिंदी AI सहायक (HindiVoice-AI-Assistant)
 
-A comprehensive Hindi-speaking AI assistant with speech-to-text, intelligent response generation, text-to-speech, and face detection capabilities.
+A production-ready, Hindi-speaking AI assistant featuring speech-to-text, intelligent response generation, text-to-speech, and real-time face detection capabilities.
 
 ## 📋 Table of Contents
 
