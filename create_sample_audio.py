@@ -1,3 +1,5 @@
+#This file automatically creates Hindi voice samples using gTTS so that we can test whether the Speech-to-Text system correctly converts Hindi speech into text.This file automatically creates Hindi voice samples using gTTS so that we can test whether the Speech-to-Text system correctly converts Hindi speech into text.
+
 """
 Script to create sample Hindi audio files for testing
 """
